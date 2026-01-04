@@ -1,5 +1,6 @@
 # Sassine-Awad-Module3-final-task-SchoolManagmentSystem04-01-2026
 this is a pull request
+
 School management system, the admin can be create (add) a course and student, update (edit) - search and delete, the student and course, also can view the list of student and course that  was adding 
 أكيد، الـ README هو واجهة مشروعك، ومن المهم أن يعكس الجهد الاحترافي الذي بذلته في بناء النظام وتقسيم الطبقات (Layered Architecture).
 
